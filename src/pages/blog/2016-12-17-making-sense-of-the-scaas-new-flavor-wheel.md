@@ -1,16 +1,16 @@
 ---
 templateKey: blog-post
 title: Welcome To Koffling
-date: 2016-12-17T15:04:10.000Z
+date: 2020-08-25T15:04:10.000Z
 description: The first blog that i created with Netlify!
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredpost: true
+featuredimage: /img/products-full-width.jpg
 tags:
   - home
   - new
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/products-full-width.jpg)
 
 Hi There! 
 
-Let's Catch up!
+Let's Work!
